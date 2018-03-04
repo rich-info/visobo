@@ -1,1 +1,2 @@
-#VisObo
+# VisObo
+Visual Organisation Board
